@@ -80,7 +80,7 @@ Before you get started, please take a few minutes and get acquainted with this a
 <Route exact path="/">
   <Products />
 </Route>
-```
+``` 
 
 - After refactoring you'll notice a few errors... Don't worry we'll clean those up shortly!
 
